@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ethxng
 - 👀 I’m interested in programming and creating cool projects
-- 🌱 I’m currently learning HTML, CSS, & Javascript
-- 💞️ I’m looking to collaborate on building any website that has an impact
+- 🌱 I’m currently learning Node.js and Express
 - 📫 How to reach me: email: ethan.nguyen0311@gmail.com
 
 <!---
