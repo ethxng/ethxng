@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethxng
+- 👋 Hi, I’m Ethan
 - 👀 I’m interested in programming and creating cool projects
 - 🌱 I’m currently learning Node.js and Express
 - 📫 How to reach me: email: ethan.nguyen0311@gmail.com
