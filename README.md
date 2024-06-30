@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ethan
 - 👀 I’m interested in programming and creating cool projects
-- 🌱 I’m currently learning Express.js and React.js
+- 🌱 I’m currently working with Typescript and AWS microservices
 - 📫 How to reach me: email: ethan.nguyen0311@gmail.com
 
 <!---
